@@ -1,0 +1,7 @@
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\bin\Debug\cat_forrat.exe.config
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\bin\Debug\cat_forrat.exe
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\bin\Debug\cat_forrat.pdb
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\obj\Debug\cat_forrat.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\obj\Debug\cat_forrat.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\obj\Debug\cat_forrat.exe
+C:\Users\HUAWEI\Desktop\cat_forrat\cat_forrat\obj\Debug\cat_forrat.pdb
