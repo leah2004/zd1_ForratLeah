@@ -1,0 +1,13 @@
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\bin\Debug\shop_forrat.exe.config
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\bin\Debug\shop_forrat.exe
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\bin\Debug\shop_forrat.pdb
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\bin\Debug\asa-TZ\shop_forrat.resources.dll
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.Form1.resources
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.Form1.asa-TZ.resources
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\asa-TZ\shop_forrat.resources.dll
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.exe
+C:\Users\HUAWEI\Desktop\shop_forrat\shop_forrat\obj\Debug\shop_forrat.pdb
